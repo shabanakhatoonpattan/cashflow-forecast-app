@@ -11,11 +11,11 @@ import io
 # Page config
 st.set_page_config(
     page_title="Cash Flow Forecast",
-    page_icon="💰",
+    page_icon="📊",
     layout="wide"
 )
 
-st.title("💰 Cash Flow Forecast & Monte Carlo Simulation")
+st.title("📊 Cash Flow Forecast & Monte Carlo Simulation by Shabana Pattan")
 
 # ---------------------------
 # Sidebar controls
